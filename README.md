@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BogdanCatalin-Iacob
-- 👀 I’m interested in Java Development,Java Web Development, Android Development
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Backend apps in different domains
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript and Python
+- 💞️ I’m looking to collaborate on Frontend or Backend apps in different domains
 - 📫 To reach me just send a text to Bogdan Iacob on messenger
 
 <!---
