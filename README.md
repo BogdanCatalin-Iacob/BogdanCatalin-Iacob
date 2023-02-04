@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @BogdanCatalin-Iacob
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Frontend or Backend apps in different domains
-- 📫 To reach me just send a message to Bogdan Iacob on LinkedIn
+👀 Hi there! I'm a junior full stack web developer with experience building and deploying applications. I have a passion for designing and implementing intuitive user experiences and am always looking for new and innovative ways to solve problems.
+
+My primary skills include:
+- HTML, CSS, and JavaScript
+- Backend development with Python, Flask and Django
+- Database design and management (PostgreSQL, MongoDB)
+- Deployment and scaling on cloud platforms (AWS, Heroku)
+
+When I'm not coding, you can find me hiking, trying to get out of Escape rooms, or cycling.
+
+Feel free to check out my portfolio and connect with me on LinkedIn. I'm always open to discussing new opportunities!
+
 
 <!---
 BogdanCatalin-Iacob/BogdanCatalin-Iacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
