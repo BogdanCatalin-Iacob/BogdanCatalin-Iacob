@@ -1,4 +1,4 @@
-👀 Hi there! I'm a junior full stack web developer with experience building and deploying applications. I have a passion for designing and implementing intuitive user experiences and am always looking for new and innovative ways to solve problems.
+👀 Hi there! I'm a Full Stack Web Developer with experience building and deploying applications. I have a passion for designing and implementing intuitive user experiences and am always looking for new and innovative ways to solve problems.
 
 My primary skills include:
 - HTML, CSS, and JavaScript
