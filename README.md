@@ -1,6 +1,6 @@
 <div style="position:relative; text-align:center;">
   <img src="https://github.com/BogdanCatalin-Iacob/BogdanCatalin-Iacob/assets/62476009/c63b7c88-9b78-41f5-a76d-2eae37b169d6" alt="sunset and mountains anime image">
-  <h1>Hi, I'm Bogdan</h1>
+  <h1 style="position:absolute; top:50%; left:50%">Hi, I'm Bogdan</h1>
   <h2>A Full Stack Developer</h2>
 </div>
 
