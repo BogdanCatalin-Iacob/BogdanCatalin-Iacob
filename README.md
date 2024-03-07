@@ -1,4 +1,4 @@
-[![Sunset-img](sunset-silhouettes-trees-mountains-generative-ai.jpg)](https://github.com/BogdanCatalin-Iacob/BogdanCatalin-Iacob)
+![sunset-silhouettes-trees-mountains-generative-ai](https://github.com/BogdanCatalin-Iacob/BogdanCatalin-Iacob/assets/62476009/ee5b0289-f083-484e-9ea6-15a59ffe5a6e)
 
 
 👀 Hi there! I'm a Full Stack Web Developer with experience building and deploying applications. I have a passion for designing and implementing intuitive user experiences and am always looking for new and innovative ways to solve problems.
@@ -18,4 +18,3 @@ Feel free to check out my portfolio and connect with me on LinkedIn. I'm always 
 BogdanCatalin-Iacob/BogdanCatalin-Iacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
