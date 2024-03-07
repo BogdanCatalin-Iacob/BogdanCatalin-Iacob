@@ -1,7 +1,6 @@
-<img src="https://github.com/BogdanCatalin-Iacob/BogdanCatalin-Iacob/assets/62476009/ee5b0289-f083-484e-9ea6-15a59ffe5a6e" alt="sunset and mountains anime image">
-
-![sunset-silhouettes-trees-mountains-generative-ai](https://github.com/BogdanCatalin-Iacob/BogdanCatalin-Iacob/assets/62476009/ee5b0289-f083-484e-9ea6-15a59ffe5a6e)
-
+<img src="https://github.com/BogdanCatalin-Iacob/BogdanCatalin-Iacob/assets/62476009/c63b7c88-9b78-41f5-a76d-2eae37b169d6" alt="sunset and mountains anime image">
+<h1 style="top:100px;">Hi, I'm Bogdan</h1>
+<h2>A Full Stack Developer</h2>
 
 
 👀 Hi there! I'm a Full Stack Web Developer with experience building and deploying applications. I have a passion for designing and implementing intuitive user experiences and am always looking for new and innovative ways to solve problems.
