@@ -14,7 +14,7 @@
 When I'm not coding, you can find me hiking, trying to get out of Escape rooms, or cycling.
 
 Feel free to check out my portfolio and connect with me on LinkedIn. I'm always open to discussing new opportunities!
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bogdan-iacob-21291b68/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="color:white" /></a>
 
 
 <!---
