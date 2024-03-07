@@ -2,6 +2,8 @@
 <p align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.</p>
 <p align="center">I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently working to improve my Data Structures and Algorithm skills 🤯.</p>
 
+# Technologies Stack 🚀
+
 <p align="center">My primary skills include:
 - HTML, CSS, and JavaScript
 - Backend development with Python, Flask and Django
@@ -12,6 +14,7 @@
 When I'm not coding, you can find me hiking, trying to get out of Escape rooms, or cycling.
 
 Feel free to check out my portfolio and connect with me on LinkedIn. I'm always open to discussing new opportunities!
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 
 <!---
