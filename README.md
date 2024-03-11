@@ -21,6 +21,7 @@
   <img align="center" src="https://cdn.simpleicons.org/postgresql" alt="" height="30" width="40" /></a>
   <img align="center" src="https://cdn.simpleicons.org/mongodb" alt="" height="30" width="40" /></a>
   <img align="center" src="https://cdn.simpleicons.org/heroku" alt="" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.simpleicons.org/git" alt="" height="30" width="40" /></a>
 </div>
 
 <br>
