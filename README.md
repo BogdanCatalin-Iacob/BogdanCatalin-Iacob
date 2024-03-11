@@ -11,17 +11,17 @@
 
 <p align="center">My primary skills include:</p>
 <div align="center">
-  <img align="center" src="https://cdn.simpleicons.org/html5/" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/css3" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/javascript" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/bootstrap" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/python" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/django" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/flask" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/postgresql" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/mongodb" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/heroku" alt="" height="30" width="40" /></a>
-  <img align="center" src="https://cdn.simpleicons.org/git" alt="" height="30" width="40" /></a>
+  <img align="center" src="https://cdn.simpleicons.org/html5/" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/css3" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/javascript" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/bootstrap" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/python" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/django" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/flask" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/postgresql" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/mongodb" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/heroku" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/git" alt="" height="30" width="40" />
 </div>
 
 <br>
