@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.</p>
-<p align="center">I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently working to improve my Data Structures and Algorithm skills 🤯.</p>
+<p align="center">I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning React JS 🤯.</p>
 
 <br>
 
