@@ -14,6 +14,7 @@
   <img align="center" src="https://cdn.simpleicons.org/html5/" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/css3" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/javascript" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/reactjs" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/bootstrap" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/python" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/django" alt="" height="30" width="40" />
