@@ -11,7 +11,7 @@
 
 <p align="center">My primary skills include:</p>
 <div align="center">
-  <img align="center" src="https://cdn.simpleicons.org/html5/" alt="" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/html5" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/css3" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/javascript" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/react" alt="" height="30" width="40" />
