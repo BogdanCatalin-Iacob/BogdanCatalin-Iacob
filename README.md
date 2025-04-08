@@ -27,7 +27,7 @@
 
 <br>
 
-<p align="center">Feel free to check out my portfolio and connect with me on <a href="https://www.linkedin.com/in/bogdan-iacob-21291b68/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin icon" height="30" width="40" /></a>. I'm always open to discussing new opportunities!</p>
+<p align="center">Feel free to check out my portfolio and connect with me on <a href="https://www.linkedin.com/in/bogdan-iacob-21291b68/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin icon" height="30" width="40" /></a>. I'm always open to discussing new opportunities!</p>
 
 <!---
 BogdanCatalin-Iacob/BogdanCatalin-Iacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
