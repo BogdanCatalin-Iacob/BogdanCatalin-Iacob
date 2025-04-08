@@ -18,7 +18,7 @@
   <img align="center" src="https://cdn.simpleicons.org/bootstrap" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/python" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/django" alt="" height="30" width="40" />
-  <img align="center" src="https://cdn.simpleicons.org/flask" alt="" height="30" width="40" />
+  <img align="center" src="https://banner2.cleanpng.com/20180829/qut/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946811244.webp" alt="" height="30" width="40" style="background-color:red;" />
   <img align="center" src="https://cdn.simpleicons.org/postgresql" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/mongodb" alt="" height="30" width="40" />
   <img align="center" src="https://cdn.simpleicons.org/heroku" alt="" height="30" width="40" />
